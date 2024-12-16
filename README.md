@@ -174,7 +174,4 @@ SafeText - это инструмент для безопасного шифро�
 SafeText は、AES-256 暗号化を使用してテキストを安全に暗号化および復号化するツールであり、各暗号化プロセスに一意のコードを提供します。また、PBKDF2 を使用して AES キーを導出することでパスワードの安全性を確保します。
 
 
----
-
-Ini adalah dokumentasi dasar untuk proyek SafeText yang dapat Anda sesuaikan lebih lanjut sesuai kebutuhan.
-
+---END---
